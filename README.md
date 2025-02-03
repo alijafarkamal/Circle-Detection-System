@@ -26,4 +26,8 @@ TQ-4P Target
 🚀 Get Started
 Clone the Repository: git clone https://github.com/alijafarkamal/Circle-Detection-System
 Build the Project: Follow the provided instructions to compile and run the project.
+  cd path_of_directory
+  cmake ..
+  make
+  ./opencv_example path_of_image
 Run the Detection: Use the provided executable to detect circles in your images or videos.
