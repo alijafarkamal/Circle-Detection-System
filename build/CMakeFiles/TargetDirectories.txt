@@ -1,3 +1,0 @@
-/home/ali-jafar/Downloads/build/CMakeFiles/opencv_example.dir
-/home/ali-jafar/Downloads/build/CMakeFiles/edit_cache.dir
-/home/ali-jafar/Downloads/build/CMakeFiles/rebuild_cache.dir
